@@ -1,0 +1,29 @@
+/* Navigation */
+
+nav
+{
+    display: inline;
+    width: 120px;
+    text-align: middle;
+    color:#cfa205
+
+}
+
+nav ul
+{
+    list-style-type: none;
+
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+/* METTRE UNE IMAGE EN FOND.jumbotron {
+  background-image: url('https://goo.gl/04j7Nn');
+}*/
+
+/*text-transform: uppercase; /* mettre tout en majuscule
+
+/*    background-image : url('https://goo.gl/04j7Nn'); image de fond dans le css
